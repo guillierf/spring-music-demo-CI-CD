@@ -1,3 +1,7 @@
+## Used for VMWORLD 2017 Demo
+Demonstrates CI/CD pipeline using GitHub/Jenkins/Harbor/KuBo
+
+
 Spring Music
 ============
 
